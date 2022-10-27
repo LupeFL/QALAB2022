@@ -21,7 +21,7 @@ public class Main {
 
 
         //Hacer doble bucle for/for
-        String user = config[XPROD][CUSER];//Linea de código agregado desde IntelliJ
+        String user = config[XPROD][CUSER];//Comentario editado desde el navegador. 
 
         //CLAVE: DESARROLLO
 
